@@ -1,4 +1,4 @@
-# Dargus Antivirus - Python GUI Application
+ # Cyber Sense - Python GUI Application
 
 Welcome to Dargus Antivirus, an endpoint security application developed purely in Python using the Tkinter library for the graphical user interface (GUI). The program incorporates the Pillow library to enhance the overall design, allowing the inclusion of images seamlessly into the GUI.
 
@@ -105,6 +105,5 @@ The font used throughout the application is Lucida Sans.
 
 
 ## Done by
-[@8tuso](https://github.com/8tuso)
-
-[@muhammadserdar](https://github.com/muhammadserdar)
+Kaushal Dholakiya
+Aryan yadav
