@@ -114,7 +114,7 @@ def scanner():
     
     # Check file for viruses using API
     def check_virus(file_path):
-        api_key = "b3e1117b497e46edaf24e9a3d0a804fbb1bc93acb76c9120be147863ddcb3616"  # Replace this with your actual VirusTotal API key
+        api_key = ""  # Replace this with your actual VirusTotal API key
         url_scan = "https://www.virustotal.com/vtapi/v2/file/scan"
         url_report = "https://www.virustotal.com/vtapi/v2/file/report"
         
